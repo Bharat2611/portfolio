@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Weather-Forecast",
+    "desc": "An intelligent Weather Forecast system that provides real-time weather updates for any location",
+    "image": "Weather-Forecast",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bharat2611.github.io/Weather-Forecast/",
+      "code": "https://github.com/Bharat2611/Weather-Forecast"
+    }
+  }
+]
